@@ -1,0 +1,112 @@
+[
+  {
+    "start_sec": 0.18,
+    "stop_sec": 24.36,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1614,
+      "calm": 0.4749,
+      "happy": 0.0165,
+      "sad": 0.3472
+    }
+  },
+  {
+    "start_sec": 24.7,
+    "stop_sec": 33.85,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0433,
+      "calm": 0.6943,
+      "happy": 0.0063,
+      "sad": 0.2561
+    }
+  },
+  {
+    "start_sec": 34.34,
+    "stop_sec": 38.22,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.4223,
+      "calm": 0.2061,
+      "happy": 0.0542,
+      "sad": 0.3174
+    }
+  },
+  {
+    "start_sec": 38.96,
+    "stop_sec": 42.12,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1971,
+      "calm": 0.3672,
+      "happy": 0.2632,
+      "sad": 0.1725
+    }
+  },
+  {
+    "start_sec": 42.44,
+    "stop_sec": 43.86,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.5339,
+      "calm": 0.2895,
+      "happy": 0.016,
+      "sad": 0.1606
+    }
+  },
+  {
+    "start_sec": 45.56,
+    "stop_sec": 46.57,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.5956,
+      "calm": 0.3544,
+      "happy": 0.0072,
+      "sad": 0.0427
+    }
+  },
+  {
+    "start_sec": 46.96,
+    "stop_sec": 48.45,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.4825,
+      "calm": 0.4962,
+      "happy": 0.0016,
+      "sad": 0.0197
+    }
+  },
+  {
+    "start_sec": 49.34,
+    "stop_sec": 60.81,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.5499,
+      "calm": 0.0421,
+      "happy": 0.0011,
+      "sad": 0.4069
+    }
+  },
+  {
+    "start_sec": 61.19,
+    "stop_sec": 91.88,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.1419,
+      "calm": 0.2248,
+      "happy": 0.0127,
+      "sad": 0.6206
+    }
+  },
+  {
+    "start_sec": 94.72,
+    "stop_sec": 107.29,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.3688,
+      "calm": 0.3184,
+      "happy": 0.0056,
+      "sad": 0.3073
+    }
+  }
+]

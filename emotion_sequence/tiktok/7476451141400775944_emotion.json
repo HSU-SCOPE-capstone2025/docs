@@ -1,0 +1,134 @@
+[
+  {
+    "start_sec": 0.03,
+    "stop_sec": 5.41,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.3704,
+      "calm": 0.1011,
+      "happy": 0.0004,
+      "sad": 0.5282
+    }
+  },
+  {
+    "start_sec": 8.76,
+    "stop_sec": 11.88,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.6355,
+      "calm": 0.0497,
+      "happy": 0.0005,
+      "sad": 0.3143
+    }
+  },
+  {
+    "start_sec": 12.4,
+    "stop_sec": 14.07,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.6648,
+      "calm": 0.2481,
+      "happy": 0.0051,
+      "sad": 0.082
+    }
+  },
+  {
+    "start_sec": 14.59,
+    "stop_sec": 31.84,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.1625,
+      "calm": 0.2863,
+      "happy": 0.0088,
+      "sad": 0.5424
+    }
+  },
+  {
+    "start_sec": 32.18,
+    "stop_sec": 33.39,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1993,
+      "calm": 0.6528,
+      "happy": 0.0991,
+      "sad": 0.0488
+    }
+  },
+  {
+    "start_sec": 34.68,
+    "stop_sec": 40.78,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.1022,
+      "calm": 0.1543,
+      "happy": 0.002,
+      "sad": 0.7414
+    }
+  },
+  {
+    "start_sec": 41.0,
+    "stop_sec": 42.1,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.3,
+      "calm": 0.5883,
+      "happy": 0.049,
+      "sad": 0.0627
+    }
+  },
+  {
+    "start_sec": 42.35,
+    "stop_sec": 56.16,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.2044,
+      "calm": 0.2367,
+      "happy": 0.002,
+      "sad": 0.5569
+    }
+  },
+  {
+    "start_sec": 56.39,
+    "stop_sec": 62.18,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.3117,
+      "calm": 0.0527,
+      "happy": 0.001,
+      "sad": 0.6345
+    }
+  },
+  {
+    "start_sec": 62.2,
+    "stop_sec": 64.85,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.555,
+      "calm": 0.0341,
+      "happy": 0.0017,
+      "sad": 0.4092
+    }
+  },
+  {
+    "start_sec": 64.86,
+    "stop_sec": 67.28,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.1923,
+      "calm": 0.0209,
+      "happy": 0.0023,
+      "sad": 0.7845
+    }
+  },
+  {
+    "start_sec": 67.65,
+    "stop_sec": 68.97,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.7153,
+      "calm": 0.1814,
+      "happy": 0.0309,
+      "sad": 0.0724
+    }
+  }
+]

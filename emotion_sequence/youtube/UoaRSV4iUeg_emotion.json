@@ -1,0 +1,112 @@
+[
+  {
+    "start_sec": 0.81,
+    "stop_sec": 2.36,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.006,
+      "calm": 0.9682,
+      "happy": 0.0248,
+      "sad": 0.001
+    }
+  },
+  {
+    "start_sec": 3.39,
+    "stop_sec": 4.82,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0169,
+      "calm": 0.9527,
+      "happy": 0.0301,
+      "sad": 0.0003
+    }
+  },
+  {
+    "start_sec": 5.75,
+    "stop_sec": 7.73,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0397,
+      "calm": 0.8065,
+      "happy": 0.1501,
+      "sad": 0.0037
+    }
+  },
+  {
+    "start_sec": 8.08,
+    "stop_sec": 11.94,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.082,
+      "calm": 0.8368,
+      "happy": 0.0224,
+      "sad": 0.0588
+    }
+  },
+  {
+    "start_sec": 12.11,
+    "stop_sec": 13.83,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.2334,
+      "calm": 0.7405,
+      "happy": 0.0066,
+      "sad": 0.0196
+    }
+  },
+  {
+    "start_sec": 14.19,
+    "stop_sec": 15.93,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0034,
+      "calm": 0.9617,
+      "happy": 0.0212,
+      "sad": 0.0136
+    }
+  },
+  {
+    "start_sec": 16.91,
+    "stop_sec": 18.27,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0764,
+      "calm": 0.5321,
+      "happy": 0.3795,
+      "sad": 0.012
+    }
+  },
+  {
+    "start_sec": 19.47,
+    "stop_sec": 21.16,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0009,
+      "calm": 0.8665,
+      "happy": 0.1312,
+      "sad": 0.0014
+    }
+  },
+  {
+    "start_sec": 22.41,
+    "stop_sec": 24.26,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0027,
+      "calm": 0.6347,
+      "happy": 0.3418,
+      "sad": 0.0208
+    }
+  },
+  {
+    "start_sec": 24.69,
+    "stop_sec": 27.71,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1842,
+      "calm": 0.5527,
+      "happy": 0.1729,
+      "sad": 0.0903
+    }
+  }
+]

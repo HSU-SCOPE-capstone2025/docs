@@ -1,0 +1,112 @@
+[
+  {
+    "start_sec": 0.03,
+    "stop_sec": 10.66,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.2513,
+      "calm": 0.612,
+      "happy": 0.1027,
+      "sad": 0.0339
+    }
+  },
+  {
+    "start_sec": 13.75,
+    "stop_sec": 21.83,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1374,
+      "calm": 0.7638,
+      "happy": 0.0514,
+      "sad": 0.0474
+    }
+  },
+  {
+    "start_sec": 22.19,
+    "stop_sec": 40.13,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1174,
+      "calm": 0.7548,
+      "happy": 0.0354,
+      "sad": 0.0924
+    }
+  },
+  {
+    "start_sec": 40.67,
+    "stop_sec": 55.4,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.101,
+      "calm": 0.7626,
+      "happy": 0.0972,
+      "sad": 0.0391
+    }
+  },
+  {
+    "start_sec": 55.89,
+    "stop_sec": 59.8,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1233,
+      "calm": 0.4642,
+      "happy": 0.3486,
+      "sad": 0.0639
+    }
+  },
+  {
+    "start_sec": 60.44,
+    "stop_sec": 64.24,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1989,
+      "calm": 0.4736,
+      "happy": 0.3071,
+      "sad": 0.0204
+    }
+  },
+  {
+    "start_sec": 64.85,
+    "stop_sec": 66.7,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.4994,
+      "calm": 0.4303,
+      "happy": 0.0451,
+      "sad": 0.0252
+    }
+  },
+  {
+    "start_sec": 66.92,
+    "stop_sec": 77.23,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1995,
+      "calm": 0.7045,
+      "happy": 0.0414,
+      "sad": 0.0546
+    }
+  },
+  {
+    "start_sec": 77.77,
+    "stop_sec": 81.32,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0353,
+      "calm": 0.7866,
+      "happy": 0.1257,
+      "sad": 0.0525
+    }
+  },
+  {
+    "start_sec": 82.06,
+    "stop_sec": 93.54,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1594,
+      "calm": 0.7309,
+      "happy": 0.0965,
+      "sad": 0.0132
+    }
+  }
+]

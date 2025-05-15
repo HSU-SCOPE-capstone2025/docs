@@ -1,0 +1,222 @@
+[
+  {
+    "start_sec": 0.17,
+    "stop_sec": 2.26,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.1537,
+      "calm": 0.2434,
+      "happy": 0.018,
+      "sad": 0.5849
+    }
+  },
+  {
+    "start_sec": 7.83,
+    "stop_sec": 13.29,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.097,
+      "calm": 0.2495,
+      "happy": 0.0883,
+      "sad": 0.5653
+    }
+  },
+  {
+    "start_sec": 15.84,
+    "stop_sec": 17.26,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.3947,
+      "calm": 0.4151,
+      "happy": 0.1785,
+      "sad": 0.0117
+    }
+  },
+  {
+    "start_sec": 23.45,
+    "stop_sec": 25.02,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.4862,
+      "calm": 0.1408,
+      "happy": 0.0057,
+      "sad": 0.3673
+    }
+  },
+  {
+    "start_sec": 25.92,
+    "stop_sec": 27.44,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0281,
+      "calm": 0.9557,
+      "happy": 0.0075,
+      "sad": 0.0087
+    }
+  },
+  {
+    "start_sec": 33.38,
+    "stop_sec": 35.03,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.4499,
+      "calm": 0.0402,
+      "happy": 0.0069,
+      "sad": 0.503
+    }
+  },
+  {
+    "start_sec": 56.44,
+    "stop_sec": 58.92,
+    "emotion": "happy",
+    "softmax": {
+      "neutral": 0.2078,
+      "calm": 0.1835,
+      "happy": 0.4925,
+      "sad": 0.1161
+    }
+  },
+  {
+    "start_sec": 59.09,
+    "stop_sec": 61.24,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.6522,
+      "calm": 0.3131,
+      "happy": 0.0067,
+      "sad": 0.0279
+    }
+  },
+  {
+    "start_sec": 69.3,
+    "stop_sec": 72.15,
+    "emotion": "sad",
+    "softmax": {
+      "neutral": 0.002,
+      "calm": 0.031,
+      "happy": 0.0052,
+      "sad": 0.9617
+    }
+  },
+  {
+    "start_sec": 80.73,
+    "stop_sec": 82.72,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.9066,
+      "calm": 0.045,
+      "happy": 0.011,
+      "sad": 0.0374
+    }
+  },
+  {
+    "start_sec": 102.28,
+    "stop_sec": 103.73,
+    "emotion": "happy",
+    "softmax": {
+      "neutral": 0.2313,
+      "calm": 0.174,
+      "happy": 0.546,
+      "sad": 0.0486
+    }
+  },
+  {
+    "start_sec": 111.17,
+    "stop_sec": 113.67,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.4864,
+      "calm": 0.2471,
+      "happy": 0.1426,
+      "sad": 0.1239
+    }
+  },
+  {
+    "start_sec": 113.84,
+    "stop_sec": 115.81,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1029,
+      "calm": 0.6555,
+      "happy": 0.0964,
+      "sad": 0.1452
+    }
+  },
+  {
+    "start_sec": 122.16,
+    "stop_sec": 124.21,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1137,
+      "calm": 0.7874,
+      "happy": 0.0025,
+      "sad": 0.0964
+    }
+  },
+  {
+    "start_sec": 125.4,
+    "stop_sec": 126.73,
+    "emotion": "neutral",
+    "softmax": {
+      "neutral": 0.6679,
+      "calm": 0.3063,
+      "happy": 0.0057,
+      "sad": 0.0201
+    }
+  },
+  {
+    "start_sec": 140.43,
+    "stop_sec": 142.03,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.0795,
+      "calm": 0.5214,
+      "happy": 0.375,
+      "sad": 0.0241
+    }
+  },
+  {
+    "start_sec": 142.57,
+    "stop_sec": 148.78,
+    "emotion": "happy",
+    "softmax": {
+      "neutral": 0.3589,
+      "calm": 0.1657,
+      "happy": 0.3978,
+      "sad": 0.0777
+    }
+  },
+  {
+    "start_sec": 150.27,
+    "stop_sec": 151.42,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.3273,
+      "calm": 0.3472,
+      "happy": 0.2035,
+      "sad": 0.1219
+    }
+  },
+  {
+    "start_sec": 170.92,
+    "stop_sec": 172.53,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1712,
+      "calm": 0.8152,
+      "happy": 0.0083,
+      "sad": 0.0053
+    }
+  },
+  {
+    "start_sec": 177.88,
+    "stop_sec": 179.97,
+    "emotion": "calm",
+    "softmax": {
+      "neutral": 0.1175,
+      "calm": 0.7259,
+      "happy": 0.1107,
+      "sad": 0.0459
+    }
+  }
+]
